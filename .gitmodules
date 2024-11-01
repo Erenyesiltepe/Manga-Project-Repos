@@ -1,0 +1,9 @@
+[submodule "Manga_Vite"]
+	path = Manga_Vite
+	url = https://github.com/Erenyesiltepe/Manga_Vite.git
+[submodule "manga-backend"]
+	path = manga-backend
+	url = https://github.com/Erenyesiltepe/manga-backend.git
+[submodule "MangaApp2"]
+	path = MangaApp2
+	url = https://github.com/Erenyesiltepe/MangaApp2.git
